@@ -14,4 +14,4 @@
 |git add -A |コミット対象を選択(-A は全て)
 |git status |リポジトリの状態を表示
 |git log |gitのコミットログを表示
-|git pull origin <brantchname>
+|git pull origin <brantchname> |リモートリポジトリの状態をローカルリポジトリに同期させる。
